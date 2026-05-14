@@ -3,7 +3,7 @@
 
 A Streamlit app that crawls a website and reports **broken links and images** in real time.
 
-Demo Link available here: [https://linkcrawler.streamlit.app]
+Demo Link available here: https://linkcrawler.streamlit.app
 
 **Features**
 ------------
@@ -29,7 +29,7 @@ Demo Link available here: [https://linkcrawler.streamlit.app]
 1. Clone this current repository + navigate into the folder
 
 ```
-git clone [https://github.com/vishanab/linkcrawler.git](https://github.com/vishanab/linkcrawler.git)
+git clone https://github.com/vishanab/linkcrawler.git
 
 cd linkcrawler
 ```
