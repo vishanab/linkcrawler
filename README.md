@@ -3,7 +3,7 @@
 
 A Streamlit app that crawls a website and reports **broken links and images** in real time.
 
-Demo Link available here:
+Demo Link available here: [https://linkcrawler.streamlit.app]
 
 **Features**
 ------------
@@ -37,7 +37,7 @@ cd linkcrawler
 2. Download necessary packages
 
 ```
-pip install streamlit requests beautifulsoup4 pandas
+pip install -r requirements.txt
 ```
 
 3. Run the app
